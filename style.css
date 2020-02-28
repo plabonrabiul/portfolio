@@ -1,59 +1,24 @@
 body{
-    font-family: 'Ubuntu', ;
-    margin: 0px;
+    font-family: 'Oxanium', sans-serif ;
+}
+h1{
+    font-size: 50px;
+}
+#nametext{
+    color: orange;
 }
 p{
     text-align: justify;
 }
-.orangelight{
-    color: orange;
-}
-.firstwebsite{
+.top{
     width: 40%;
     float: left;
-    margin-left: 5%;
-    padding-left: 2%;
 }
-.firstwebsite img{
+.top img{
     width: 100%;
 }
-.firstwebsite button{
-    color: white;
-    background: saddlebrown;
-    margin-left: 3px;
-    margin-right: 3px;
-    padding: 20px;
-    border-radius: 3px;
-}
-.top-banner{
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
-
-}
-section{
-    height: 500px;
-    padding-bottom: 150px;
-}
-.link-button{
+.button{
     text-decoration: none;
-    font-size:20px;
-    font-weight: bold;
+    background-color: blue;
     color: white;
-    background-image:linear-gradient(45deg, lightSalmon,tomato);
-    padding: 10px 20px;
-    border-radius: 5px;
-}
-.bottom-banner{
-    background-image: url("images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-
-h1{
-    font-size: 50px;
-}
-h3{
-    font-size: 30px;
-}
-.blog-experience{
-    box-shadow: 10px 10px gray 40px;
 }
